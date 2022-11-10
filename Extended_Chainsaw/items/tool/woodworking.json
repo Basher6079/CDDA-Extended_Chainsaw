@@ -1,5 +1,5 @@
 [
-	{
+  {
     "id": "polesaw_off",
     "copy-from": "chainsaw_off",
     "type": "TOOL",
