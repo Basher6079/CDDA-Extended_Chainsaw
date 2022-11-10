@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "extended_chainsaw",
+    "name": "Extended Chainsaw",
+    "authors": [ "Basher" ],
+    "maintainers": [ "Basher" ],
+    "description": "Adds a pole saw, an chainsaw used for trimming branches.",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
