@@ -7,7 +7,7 @@
     "description": "This is a small chainsaw extendeded on a pole for trimming tree branches. It is extremely unwieldy and fragile, and probably shouldn't be used for anything but forestry work.",
     "weight": "13018 g",
     "volume": "3000 ml",
-    "longest_side": "249 cm",
+    "longest_side": "300 cm",
     "to_hit": -4,
     "flags": [ "NONCONDUCTIVE", "FRAGILE_MELEE", "REACH_ATTACK", "REACH3", "ALWAYS_TWOHAND", "POLEARM" ]
   },
